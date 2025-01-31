@@ -1,4 +1,4 @@
-name: deploy vue
+name: deploy vue prod
 
 on:
   push:
